@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Samuel",
+            "lastName": "Londoño",
+            "age": 20
+        },
+        {
+            "id": 2,
+            "name": "Corina",
+            "lastName": "Sánchez",
+            "age": 23
+        },
+        {
+            "id": 3,
+            "name": "Pablo",
+            "lastName": "Torices",
+            "age": 20
+        }
+    ]
+}
